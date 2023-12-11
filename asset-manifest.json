@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Giveers/static/css/main.aa964bbb.css",
+    "main.js": "/Giveers/static/js/main.a395a4ec.js",
+    "static/media/woff": "/Giveers/static/media/d642a55bac4df71e7c87a9394df80363.b44b2b76e16d48b624e8.woff",
+    "static/media/woff2": "/Giveers/static/media/9d23cda2fd2a195a8467e0967debd4d3.9a5005c38dd3b5288f4e.woff2",
+    "static/media/FONTSPRINGDEMO-CeraRoundProBold.woff": "/Giveers/static/media/FONTSPRINGDEMO-CeraRoundProBold.7446ca508d5e032eb136.woff",
+    "static/media/FONTSPRINGDEMO-CeraRoundProLightRegular.woff": "/Giveers/static/media/FONTSPRINGDEMO-CeraRoundProLightRegular.e9f4062157b5f8f96c5a.woff",
+    "index.html": "/Giveers/index.html",
+    "main.aa964bbb.css.map": "/Giveers/static/css/main.aa964bbb.css.map",
+    "main.a395a4ec.js.map": "/Giveers/static/js/main.a395a4ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa964bbb.css",
+    "static/js/main.a395a4ec.js"
+  ]
+}
